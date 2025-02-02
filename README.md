@@ -19,7 +19,7 @@ This report evaluates the **CIFAR-10 classification task using ResNet-32**, trai
 - **Classes**: 10 (airplanes, cars, birds, cats, deer, dogs, frogs, horses, ships, trucks)
 - **Training Images**: 50,000
 - **Testing Images**: 10,000
-- **Challenge**: Small image size makes high accuracy difficult
+  
 
 ### **ResNet-32 Model Description**
 - **Architecture**: Residual Network with 32 layers
